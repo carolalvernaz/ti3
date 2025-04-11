@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.10">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="962" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1332" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,34 +8,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NErnlqf0GAWsiSf0F0_Z-97" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Levantamento bibliográfico&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="353" y="248" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NErnlqf0GAWsiSf0F0_Z-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-99" target="NErnlqf0GAWsiSf0F0_Z-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NErnlqf0GAWsiSf0F0_Z-99" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Coleta dos trabalhos encontrados&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="353" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NErnlqf0GAWsiSf0F0_Z-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-101" target="NErnlqf0GAWsiSf0F0_Z-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NErnlqf0GAWsiSf0F0_Z-101" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Filtragem dos trabalhos mais relevantes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="353" y="436" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NErnlqf0GAWsiSf0F0_Z-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-103" target="NErnlqf0GAWsiSf0F0_Z-117">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NErnlqf0GAWsiSf0F0_Z-103" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Leitura detalhada dos artigos&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="353" y="526.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-105" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Fluxograma do levantamento e colate de dados&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NErnlqf0GAWsiSf0F0_Z-105" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Fluxograma do levantamento e coleta de dados&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="219" y="20" width="387" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NErnlqf0GAWsiSf0F0_Z-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-113" target="NErnlqf0GAWsiSf0F0_Z-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NErnlqf0GAWsiSf0F0_Z-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Definição do tema&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="353" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NErnlqf0GAWsiSf0F0_Z-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-115" target="NErnlqf0GAWsiSf0F0_Z-113">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NErnlqf0GAWsiSf0F0_Z-115" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Início&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="353" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NErnlqf0GAWsiSf0F0_Z-117" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Refino do conjunto de trabalhos&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="353" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
