@@ -1,50 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.10">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1332" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-97" target="NErnlqf0GAWsiSf0F0_Z-99">
+        <mxCell id="NErnlqf0GAWsiSf0F0_Z-105" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Fluxograma do levantamento e coleta de dados&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="219" y="10" width="387" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRstTC-CodxBYOGnAaj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-113" target="SvRstTC-CodxBYOGnAaj-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-97" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Levantamento bibliográfico&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="248" width="120" height="60" as="geometry" />
+        <mxCell id="NErnlqf0GAWsiSf0F0_Z-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Definição das palavras chave&lt;br&gt;&lt;/b&gt;&lt;br&gt;&quot;inteligência artificial&quot;, &quot;cibersegurança&quot;, &quot;ataques cibernéticos&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="339" y="102" width="147" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-99" target="NErnlqf0GAWsiSf0F0_Z-101">
+        <mxCell id="NErnlqf0GAWsiSf0F0_Z-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NErnlqf0GAWsiSf0F0_Z-115" target="NErnlqf0GAWsiSf0F0_Z-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-99" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Coleta dos trabalhos encontrados&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="NErnlqf0GAWsiSf0F0_Z-115" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Início&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="379" y="50" width="67" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-101" target="NErnlqf0GAWsiSf0F0_Z-103">
+        <mxCell id="SvRstTC-CodxBYOGnAaj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SvRstTC-CodxBYOGnAaj-1" target="SvRstTC-CodxBYOGnAaj-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-101" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Filtragem dos trabalhos mais relevantes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="436" width="120" height="60" as="geometry" />
+        <mxCell id="SvRstTC-CodxBYOGnAaj-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Seleção das bases de dados&lt;br&gt;&lt;/b&gt;&lt;br&gt;SBC &lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px;&quot;&gt;(SBSEG, ENIAC),&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;IEEE,&lt;br&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SpringerLink, Iberama&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341.25" y="280" width="142.5" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-103" target="NErnlqf0GAWsiSf0F0_Z-117">
+        <mxCell id="SvRstTC-CodxBYOGnAaj-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SvRstTC-CodxBYOGnAaj-3" target="SvRstTC-CodxBYOGnAaj-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-103" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Leitura detalhada dos artigos&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="526.5" width="120" height="60" as="geometry" />
+        <mxCell id="SvRstTC-CodxBYOGnAaj-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Levantamento inicial de trabalhos&lt;br&gt;&lt;/b&gt;&lt;br&gt;Busca por relevância (Qualis A e B);&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Coleta de artigo com foco nas palavras-chave&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="449" width="148" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-105" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Fluxograma do levantamento e coleta de dados&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="219" y="20" width="387" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-113" target="NErnlqf0GAWsiSf0F0_Z-97">
+        <mxCell id="SvRstTC-CodxBYOGnAaj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SvRstTC-CodxBYOGnAaj-5" target="SvRstTC-CodxBYOGnAaj-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Definição do tema&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="155" width="120" height="60" as="geometry" />
+        <mxCell id="SvRstTC-CodxBYOGnAaj-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Leitura de títulos e resumos&lt;br&gt;&lt;/b&gt;&lt;br&gt;Exclusão de textos fora do escopo e manutenção dos mais relevantes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="674" width="148" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NErnlqf0GAWsiSf0F0_Z-115" target="NErnlqf0GAWsiSf0F0_Z-113">
+        <mxCell id="SvRstTC-CodxBYOGnAaj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvRstTC-CodxBYOGnAaj-7" target="SvRstTC-CodxBYOGnAaj-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-115" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Início&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="SvRstTC-CodxBYOGnAaj-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Refino final dos trabalhos a serem usados&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="863" width="148" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NErnlqf0GAWsiSf0F0_Z-117" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Refino do conjunto de trabalhos&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="353" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="SvRstTC-CodxBYOGnAaj-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Fim&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="953" width="67" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
